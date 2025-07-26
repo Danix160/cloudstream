@@ -3,6 +3,6 @@
   "name": "Onlineserietv Repo",
   "version": 1,
   "plugins": [
-    "https://danix160.github.io/cloudstream/plugins.json"
+    "https://danix160.codeberg.page/cloudstream-onlineserietv/plugins.json"
   ]
 }
