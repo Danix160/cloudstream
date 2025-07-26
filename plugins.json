@@ -1,0 +1,12 @@
+
+[
+  {
+    "name": "Onlineserietv",
+    "filename": "onlineserietv.js",
+    "type": "anime",
+    "language": "it",
+    "version": 1,
+    "manifest": "https://danix160.codeberg.page/cloudstream-onlineserietv/manifest.json",
+    "url": "https://danix160.codeberg.page/cloudstream-onlineserietv/onlineserietv.js"
+  }
+]

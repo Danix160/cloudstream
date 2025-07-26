@@ -1,0 +1,11 @@
+
+{
+  "name": "Onlineserietv",
+  "id": "onlineserietv",
+  "version": 1,
+  "author": "Danix160",
+  "description": "Plugin Cloudstream per onlineserietv.com",
+  "language": ["it"],
+  "type": "anime",
+  "icon": "https://www.onlineserietv.com/favicon.ico"
+}
