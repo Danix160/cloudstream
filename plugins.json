@@ -6,7 +6,7 @@
     "type": "anime",
     "language": "it",
     "version": 1,
-    "manifest": "https://danix160.codeberg.page/cloudstream-onlineserietv/manifest.json",
-    "url": "https://danix160.codeberg.page/cloudstream-onlineserietv/onlineserietv.js"
+    "manifest": "https://danix160.github.io/cloudstream/manifest.json",
+    "url": "https://danix160.github.io/cloudstream/onlineserietv.js"
   }
 ]
